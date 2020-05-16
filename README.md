@@ -1,12 +1,12 @@
 # Credits
 
 Developers CSRevolution Mobile
-
+<center>
 • Maulana Ibrahim
 • Husnul
 • ABD Rahman
 • Muhammad Hisyam
-
+</center>
 Thanks To
 
 • CSR Family
