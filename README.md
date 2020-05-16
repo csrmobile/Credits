@@ -8,12 +8,9 @@
 • Muhammad Hisyam
 ```
 
-Thanks To
+**Thanks To**
+```bash
+CSR Family | Zeppeto | Valve
+```
 
-• CSR Family
-• Zeppeto
-• Valve
-
-And Thanks Support
-
-Email : csrmobile.faq@gmail.com
+**Email : csrmobile.faq@gmail.com**
